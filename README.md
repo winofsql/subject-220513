@@ -26,4 +26,5 @@
   ![image](https://user-images.githubusercontent.com/1501327/168194676-4b23e81f-8025-488a-824f-0bbad1900a5f.png)\
   ![image](https://user-images.githubusercontent.com/1501327/168194726-d4f61a05-f55f-45c7-909d-a705d296b784.png)
 
-  
+- ### ページレイアウト
+  - サイズを意識する : A4、B4、A3
