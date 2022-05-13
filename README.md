@@ -36,3 +36,4 @@
 - ### フォーマットをページに合わせて縮小して調整
 ![image](https://user-images.githubusercontent.com/1501327/168200309-8024e3bc-48f6-4875-a94a-3a5289b74010.png)
 
+![image](https://user-images.githubusercontent.com/1501327/168234155-9d49e988-d84d-4a36-8fe0-9383ff1fc50f.png)
