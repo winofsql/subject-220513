@@ -30,4 +30,6 @@
   - サイズを意識する : A4、B4、A3
   - 印刷の向き : 縦、横
   - #### ヘッダー/フッター
-  ![image](https://user-images.githubusercontent.com/1501327/168197714-f90a2f32-4f0d-4601-af2f-2a73eed2af16.png)
+  ![image](https://user-images.githubusercontent.com/1501327/168197714-f90a2f32-4f0d-4601-af2f-2a73eed2af16.png)\
+  ![image](https://user-images.githubusercontent.com/1501327/168198325-9327ddcb-340d-4edf-bf7f-696ef26b13fb.png)
+
