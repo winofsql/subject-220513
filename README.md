@@ -22,5 +22,8 @@
   - CTRL + 1 で罫線作業タブのあるダイアログ表示
   - 選択したエリアの罫線を選んで引く\
   ![image](https://user-images.githubusercontent.com/1501327/168193784-35cd2cdc-6691-4f04-97ad-c3cac8437b9d.png)
+  - 印刷後の罫線のフォーマットを確認したい場合は、表示タブで目盛線のチェックを外す
+  ![image](https://user-images.githubusercontent.com/1501327/168194676-4b23e81f-8025-488a-824f-0bbad1900a5f.png)\
+  ![image](https://user-images.githubusercontent.com/1501327/168194726-d4f61a05-f55f-45c7-909d-a705d296b784.png)
 
   
