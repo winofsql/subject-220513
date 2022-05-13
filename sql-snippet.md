@@ -5,7 +5,8 @@
 
 ### 1) 日付関数のバリエーション
 ### 2) NULL 値を含む計算方法 : IFNULL 関数を使用
-### 3) SELECT ～ INTO OUTFILE ファイルパス オプション で、SQL の結果をテキストファイルに出力可能
+### 3) SELECT ～ INTO OUTFILE ファイルパス オプション で、SQL の結果をテキストファイルに出力
+### 4) LEFT OUTER JOIN 以外使うな
 
 ### フォーットを適用 : SHIFT + ALT + F
 
