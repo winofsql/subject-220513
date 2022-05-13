@@ -33,6 +33,6 @@
   ![image](https://user-images.githubusercontent.com/1501327/168197714-f90a2f32-4f0d-4601-af2f-2a73eed2af16.png)\
   ![image](https://user-images.githubusercontent.com/1501327/168198496-b0bb532c-ea0f-45b6-92d0-33ea77521ec5.png)
 
-- ### フォーマットをページに合わせて縮小して調整\
+- ### フォーマットをページに合わせて縮小して調整
 ![image](https://user-images.githubusercontent.com/1501327/168200309-8024e3bc-48f6-4875-a94a-3a5289b74010.png)
 
