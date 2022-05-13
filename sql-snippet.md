@@ -56,3 +56,16 @@ FROM
 - ### スニペットの作成時にパラメータを投すると、実行時に入力モードとなる
     - TAB キーで次の入力に進む事ができる
 
+```json
+    "select-left-outer": {
+        "scope": "sql",
+        "prefix": "select-left-outer-join",
+        "body": [
+            "SELECT * FROM $1",
+            "    LEFT OUTER JOIN $2",
+            "    ON $1.$3 = $2.$4",
+            ";",
+        ],
+        "description": ""
+    }
+```
