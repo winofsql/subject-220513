@@ -1,5 +1,3 @@
-## SQL
-
 ### CTRL + SPACE でスニペットを表示して SQL を作成 
 ```sql
 SELECT
